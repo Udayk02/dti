@@ -1,6 +1,6 @@
 # dti
 
-A new Flutter application.
+A Flutter Application for demonstration of Accident Detection through Mobile Devices.
 
 ## Getting Started
 
